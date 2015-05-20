@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "riyadWebAppDotNet2"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-riyadWebAppDotNet2-2166c613-6fc4-49db-bce7-d30ab00e325c;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
